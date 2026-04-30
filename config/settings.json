@@ -1,0 +1,29 @@
+{
+  "account": 260506517,
+  "password": "Ba5419900505##",
+  "server": "Exness-MT5Trial15",
+  "symbol": "XAUUSDm",
+  "lot_size": 0.01,
+
+  "profit_target": 1.0,
+  "loss_limit": -1.0,
+
+  "burst_strong_count": 5,
+  "burst_weak_count": 2,
+
+  "burst_strong_step": 0.2,
+  "burst_weak_step": 0.5,
+
+  "velocity_window_ms": 300,
+  "imbalance_window_ms": 500,
+  "acceleration_window_ms": 400,
+
+  "weight_velocity": 1.0,
+  "weight_imbalance": 1.0,
+  "weight_acceleration": 1.0,
+
+  "strong_threshold": 0.7,
+  "weak_threshold": 0.3,
+
+  "tick_buffer_ms": 3000
+}
